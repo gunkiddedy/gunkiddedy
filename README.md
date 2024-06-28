@@ -21,9 +21,6 @@ I'm a passionate full-stack web developer with expertise in building modern web 
 - Database:
   - MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gunkiddedy&show_icons=true&count_private=true&hide=issues,contribs)
-
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkiddedy&layout=compact)
 
