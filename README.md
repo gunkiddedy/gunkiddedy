@@ -25,15 +25,15 @@ I'm a passionate full-stack web developer with expertise in building modern web 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkiddedy&layout=compact)
 
 ## 🌟 My Sample Projects
-- [Project 1 Name](https://hilarious-strudel-9b3ef4.netlify.app/) - Short description
-- [Project 2 Name](https://nextjs-dashboard-app-iota.vercel.app/dashboard) - Short description
-- [Project 3 Name](https://luminous-caramel-183004.netlify.app/) - Short description
-- [Project 4 Name](https://eclectic-truffle-63c162.netlify.app/) - Short description
-- [Project 5 Name](https://gallant-shockley-e1cc6f.netlify.app/) - Short description
-- [Project 6 Name](https://monumental-torte-23f6aa.netlify.app/) - Short description
-- [Jobby Works](https://www.jobby.works/) - Short description
-- [ZickLearn](https://www.zicklearn.com/) - Short description
-- [Sparkly Pithivier](https://sparkly-pithivier-8b024e.netlify.app/) - Short description
+- https://hilarious-strudel-9b3ef4.netlify.app/
+- https://nextjs-dashboard-app-iota.vercel.app/dashboard
+- https://luminous-caramel-183004.netlify.app/
+- https://eclectic-truffle-63c162.netlify.app/
+- https://gallant-shockley-e1cc6f.netlify.app/
+- https://monumental-torte-23f6aa.netlify.app/
+- https://www.jobby.works
+- https://www.zicklearn.com
+- https://sparkly-pithivier-8b024e.netlify.app/
 
 Let's connect and build amazing things together! 🌍✨
 
