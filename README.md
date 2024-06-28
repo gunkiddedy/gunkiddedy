@@ -1,5 +1,5 @@
 ## Hi there 👋 
 
-I am Dedy, I bring a blend of technical proficiency and creative flair to every project. With a solid foundation in HTML, CSS, and JavaScript, I specialize in crafting intuitive user interfaces that marry functionality with aesthetics. I thrive on learning and leveraging modern frameworks like React and Vue.js to build responsive, engaging web applications. Collaborative and detail-oriented, I'm dedicated to refining my skills and delivering impactful digital experiences that resonate with users.
+I am Dedy, a versatile full-stack developer proficient in various frontend and backend technologies. On the front, I excel in Vue, React, Tailwind CSS, Svelte, Alpine JS, Bootstrap, JQuery, CSS, HTML, and JavaScript, crafting seamless user experiences and intuitive interfaces. My backend expertise spans PHP with Laravel and Node.js with Express.js, integrating robust databases like MySQL and PostgreSQL to deliver scalable and efficient server-side solutions. With a keen eye for both design and functionality, I adeptly bridge the gap between user-centric frontend design and powerful backend logic.
 
 *🌱 I’m currently learning to react native and solidity 
